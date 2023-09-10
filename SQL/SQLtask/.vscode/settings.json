@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "task_sql",
+            "database": "${workspaceFolder:archive}/sqlite-sakila.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
